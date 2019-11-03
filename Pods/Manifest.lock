@@ -1,0 +1,24 @@
+PODS:
+  - CVCalendar (1.6.2)
+  - DatePicker (1.0.1):
+    - Extended (~> 1.0.4)
+  - Extended (1.0.5)
+
+DEPENDENCIES:
+  - CVCalendar (~> 1.6.2)
+  - DatePicker (~> 1.0.1)
+
+SPEC REPOS:
+  trunk:
+    - CVCalendar
+    - DatePicker
+    - Extended
+
+SPEC CHECKSUMS:
+  CVCalendar: 515092247b9c5059855643c2a2220f259bd5417f
+  DatePicker: adebbc11d7e198985f376e4943f844860bf019db
+  Extended: c463225e0c29b2823847866c1b106827772ac678
+
+PODFILE CHECKSUM: 793a2193038eef046290eb9a4bef20643490c19b
+
+COCOAPODS: 1.8.4

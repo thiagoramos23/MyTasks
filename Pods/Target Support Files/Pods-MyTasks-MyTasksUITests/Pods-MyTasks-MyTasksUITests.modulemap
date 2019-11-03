@@ -1,0 +1,6 @@
+framework module Pods_MyTasks_MyTasksUITests {
+  umbrella header "Pods-MyTasks-MyTasksUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
